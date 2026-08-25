@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a3ac0ad589040ad4",
+        "id": "4005a8e4873627ac",
         "type": "tabs",
         "children": [
           {
-            "id": "7c01758b6eabd230",
+            "id": "a238d47e1db3fd5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "STM32Docs/01-基础知识/串口.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "串口"
             }
           }
         ]
@@ -188,32 +188,37 @@
       "bases:新建数据库": false
     }
   },
-  "active": "7c01758b6eabd230",
+  "active": "a238d47e1db3fd5f",
   "lastOpenFiles": [
-    "STM32Docs/02-GPIO/GPIO.md",
-    "Picture/WriteBit.png",
-    "Picture/Init.png",
-    "STM32Docs/01-准备阶段/基础知识.md",
-    "STM32Docs/02-GPIO",
-    "Picture/GPIO.png",
-    "Manual/STM32F103C8T6最小系统原理图.pdf",
-    "STM32Docs/01-准备阶段/环境搭建.md",
-    "Picture/推挽.png",
-    "Picture/开漏.png",
+    "STM32Docs/02-外设实验/02-按钮.md",
+    "STM32Docs/01-基础知识/串口.md",
+    "Picture/重映射.png",
+    "STM32Docs/01-基础知识/GPIO.md",
+    "Picture/TxRx.png",
+    "Picture/硬件流控.png",
+    "Picture/同步.png",
+    "Picture/半双工.png",
+    "Picture/全双工.png",
+    "STM32Docs/02-外设实验/01-LED闪灯.md",
+    "Picture/USART_Init.png",
+    "Picture/波特率例子.png",
+    "Picture/波特率.png",
+    "Picture/串并.png",
+    "STM32Code/template/template.uvguix.Aerfa.Aerfa.tmp",
+    "STM32Code/template/template.uvoptx.Aerfa.tmp",
+    "STM32Code/template/template.uvprojx.Aerfa.tmp",
+    "STM32Code/template/Objects/spi.__i",
+    "STM32Code/template/Objects/button.__i",
+    "STM32Code/template/Objects/oled.__i",
+    "STM32Code/template/Objects/si2c.__i",
+    "STM32Code/template/Objects/i2c.__i",
+    "STM32Code/template/Objects/usart.__i",
+    "STM32Code/template/Objects/main.__i",
+    "STM32Docs/01-基础知识/接线.md",
     "STM32Docs/00-学习路线.md",
-    "STM32Docs/01-准备阶段",
+    "STM32Docs/01-基础知识/芯片拆解.md",
+    "STM32Docs/01-基础知识/环境搭建.md",
     "README.md",
-    "STM32Notes/欢迎.md",
-    "Manual/RM0008 STM32F10xxx参考手册（英文）.pdf",
-    "Manual/DS5319 stm32f10x中等密度mcu数据手册（英文）.pdf",
-    "Manual/RM0008 STM32F10xxx参考手册（中文）.pdf",
-    "Manual",
-    "新建文件夹",
-    "Picture/解决方法三.png",
-    "Picture/解决方法二.png",
-    "Picture/解决方法一.png",
-    "Picture/ARM.png",
-    "Picture/支持包.png",
-    "Picture"
+    "STM32Notes/欢迎.md"
   ]
 }
