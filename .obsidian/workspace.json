@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4005a8e4873627ac",
+        "id": "3a8d67d923f66870",
         "type": "tabs",
         "children": [
           {
-            "id": "a238d47e1db3fd5f",
+            "id": "068e6356d89b50a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32Docs/01-基础知识/串口.md",
+                "file": "STM32Docs/01-基础知识/GPIO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "串口"
+              "title": "GPIO"
             }
           }
         ]
@@ -188,22 +188,27 @@
       "bases:新建数据库": false
     }
   },
-  "active": "a238d47e1db3fd5f",
+  "active": "068e6356d89b50a0",
   "lastOpenFiles": [
-    "STM32Docs/02-外设实验/02-按钮.md",
-    "STM32Docs/01-基础知识/串口.md",
-    "Picture/重映射.png",
+    "STM32Docs/01-基础知识/接线.md",
+    "STM32Code/02-ButtonConLED/ConLED.uvguix.Aerfa.Aerfa.tmp",
+    "STM32Code/02-ButtonConLED/ConLED.uvoptx.Aerfa.tmp",
+    "STM32Code/02-ButtonConLED/ConLED.uvprojx.Aerfa.tmp",
     "STM32Docs/01-基础知识/GPIO.md",
-    "Picture/TxRx.png",
-    "Picture/硬件流控.png",
-    "Picture/同步.png",
-    "Picture/半双工.png",
-    "Picture/全双工.png",
+    "STM32Docs/01-基础知识/串口.md",
+    "STM32Docs/01-基础知识/新建工程.md",
+    "Picture/工程11.png",
+    "Picture/工程10.png",
+    "Picture/工程9.png",
+    "Picture/工程8.png",
+    "Picture/工程7.png",
+    "Picture/工程6.png",
+    "Picture/工程5.png",
+    "Picture/工程4.png",
+    "Picture/工程3.png",
+    "Picture/工程2.png",
+    "STM32Docs/02-外设实验/02-按钮.md",
     "STM32Docs/02-外设实验/01-LED闪灯.md",
-    "Picture/USART_Init.png",
-    "Picture/波特率例子.png",
-    "Picture/波特率.png",
-    "Picture/串并.png",
     "STM32Code/template/template.uvguix.Aerfa.Aerfa.tmp",
     "STM32Code/template/template.uvoptx.Aerfa.tmp",
     "STM32Code/template/template.uvprojx.Aerfa.tmp",
@@ -211,10 +216,6 @@
     "STM32Code/template/Objects/button.__i",
     "STM32Code/template/Objects/oled.__i",
     "STM32Code/template/Objects/si2c.__i",
-    "STM32Code/template/Objects/i2c.__i",
-    "STM32Code/template/Objects/usart.__i",
-    "STM32Code/template/Objects/main.__i",
-    "STM32Docs/01-基础知识/接线.md",
     "STM32Docs/00-学习路线.md",
     "STM32Docs/01-基础知识/芯片拆解.md",
     "STM32Docs/01-基础知识/环境搭建.md",
