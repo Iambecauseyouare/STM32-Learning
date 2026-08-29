@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32Docs/00-学习路线.md",
+                "file": "STM32Docs/01-基础知识/串口.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-学习路线"
+              "title": "串口"
             }
           }
         ]
@@ -190,13 +190,13 @@
   },
   "active": "068e6356d89b50a0",
   "lastOpenFiles": [
+    "STM32Docs/00-学习路线.md",
     "STM32Docs/02-外设实验/03-USART.md",
     "STM32Docs/02-外设实验/02-按钮.md",
     "STM32Code/03-3-USARTLibTest/USARTLibTest.uvguix.Aerfa.Aerfa.tmp",
     "STM32Code/03-3-USARTLibTest/USARTLibTest.uvoptx.Aerfa.tmp",
     "STM32Code/03-3-USARTLibTest/USARTLibTest.uvprojx.Aerfa.tmp",
     "STM32Docs/01-基础知识/串口.md",
-    "STM32Docs/00-学习路线.md",
     "STM32Docs/02-外设实验/01-LED闪灯.md",
     "STM32Docs/01-基础知识/编程接口.md",
     "STM32Code/03-3-USARTLibTest/Objects/stm32f10x_dbgmcu.__i",
