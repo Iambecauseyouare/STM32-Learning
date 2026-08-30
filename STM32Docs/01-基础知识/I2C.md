@@ -72,7 +72,7 @@
 
 ### I2C_GetFlagStatus
 > 同USART一样
-> > 可查阅数据手册I2C模块了解标志位
+> 可查阅数据手册I2C模块了解标志位
 
 ![BUSY](../../Picture/BUSY.png)
 
@@ -83,6 +83,7 @@
 
 ### My_I2C_SendBytes(自定义)
 > 向I2C发送数据的一个流程
+
 ![SendBytes](../../Picture/I2C_SendBytes.png)
 
 ```
