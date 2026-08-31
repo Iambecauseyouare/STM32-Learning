@@ -70,6 +70,9 @@
 
 ![发送数据](../../Picture/发送数据.png)
 
+## 软I2C
+> 可以使用其他的引脚充当SCL和SDA，通过发送I2C的数据帧格式可以模拟一个软I2C,代码在04-1-SoftwareI2CTest目录下main.c文件
+
 ### I2C_GetFlagStatus
 > 同USART一样
 > 可查阅数据手册I2C模块了解标志位
