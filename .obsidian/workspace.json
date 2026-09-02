@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32Docs/02-外设实验/04-I2C.md",
+                "file": "STM32Docs/02-外设实验/05-SPI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-I2C"
+              "title": "05-SPI"
             }
           }
         ]
@@ -190,9 +190,9 @@
   },
   "active": "4008cff40ee1f043",
   "lastOpenFiles": [
-    "STM32Docs/01-基础知识/SPI.md",
     "STM32Docs/02-外设实验/04-I2C.md",
-    "STM32Docs/02-外设实验/SPI.md",
+    "STM32Docs/01-基础知识/SPI.md",
+    "STM32Docs/02-外设实验/05-SPI.md",
     "STM32Docs/01-基础知识/I2C.md",
     "STM32Docs/02-外设实验/02-按钮.md",
     "STM32Docs/01-基础知识/GPIO.md",
