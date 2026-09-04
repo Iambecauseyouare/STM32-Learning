@@ -23,20 +23,16 @@ int main(void)
 			if(current == Bit_SET)
 			{
 				//	改变LED亮灭状态
-//				if(GPIO_ReadOutputDataBit(GPIOC, GPIO_Pin_13) == Bit_SET)
-//				{
-//					GPIO_WriteBit(GPIOC, GPIO_Pin_13, Bit_RESET);
-//				}
-//				else
-//				{
-//					GPIO_WriteBit(GPIOC, GPIO_Pin_13, Bit_SET);
-//				}
-				GPIO_WriteBit(GPIOC, GPIO_Pin_13, (GPIO_ReadOutputDataBit(GPIOC, GPIO_Pin_13) == Bit_SET) ? Bit_RESET : Bit_SET);
+				if(GPIO_ReadOutputDataBit(GPIOC, GPIO_Pin_13) == Bit_SET)
+				{
+					GPIO_WriteBit(GPIOC, GPIO_Pin_13, Bit_RESET);
+				}
+				else
+				{
+					GPIO_WriteBit(GPIOC, GPIO_Pin_13, Bit_SET);
+				}
+//				GPIO_WriteBit(GPIOC, GPIO_Pin_13, (GPIO_ReadOutputDataBit(GPIOC, GPIO_Pin_13) == Bit_SET) ? Bit_RESET : Bit_SET);
 				Delay(10);
-			}
-			else
-			{
-				
 			}
 		}
 	}
