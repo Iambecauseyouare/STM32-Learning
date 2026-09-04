@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32Docs/01-基础知识/定时器.md",
+                "file": "STM32Docs/02-外设实验/09-定时器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "定时器"
+              "title": "09-定时器"
             }
           }
         ]
@@ -188,53 +188,91 @@
       "bases:新建数据库": false
     }
   },
+  "floating": {
+    "id": "7e1ee9b55a7c4225",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f90808aef415ac64",
+        "type": "window",
+        "children": [
+          {
+            "id": "a0bbf821a819ebbd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "79491aa819f0e0e4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "STM32Docs/01-基础知识/定时器.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "定时器"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1,
+        "y": 0,
+        "width": 958,
+        "height": 1079,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "4008cff40ee1f043",
   "lastOpenFiles": [
-    "Picture/极性选择.png",
-    "Picture/捕获模式选择.png",
-    "STM32Docs/01-基础知识/时钟.md",
-    "STM32Docs/02-外设实验/06-中断.md",
-    "STM32Code/UserDelay/Objects/stm32f10x_fsmc.__i",
-    "STM32Code/UserDelay/Objects/stm32f10x_flash.__i",
-    "STM32Code/UserDelay/Objects/stm32f10x_exti.__i",
-    "STM32Code/UserDelay/Objects/stm32f10x_dma.__i",
-    "STM32Code/UserDelay/Objects/stm32f10x_dbgmcu.__i",
-    "STM32Code/UserDelay/Objects/stm32f10x_dac.__i",
-    "STM32Code/UserDelay/Objects/stm32f10x_crc.__i",
-    "STM32Code/UserDelay/Objects/stm32f10x_cec.__i",
-    "STM32Code/UserDelay/Objects/stm32f10x_can.__i",
-    "STM32Code/UserDelay/Objects/stm32f10x_bkp.__i",
-    "STM32Docs/01-基础知识/中断.md",
     "STM32Docs/01-基础知识/定时器.md",
-    "Picture/初始化时基单元.png",
-    "Picture/时基单元.png",
-    "Picture/定时器结构.png",
+    "STM32Docs/02-外设实验/09-定时器.md",
+    "STM32Docs/01-基础知识/时钟.md",
     "STM32Docs/02-外设实验/08-时钟树.md",
-    "Picture/开关和复位.png",
-    "Picture/指令预取.png",
-    "Picture/切换.png",
-    "Picture/分频系数.png",
-    "Picture/锁相环.png",
-    "Picture/HSE.png",
+    "STM32Code/09-HCSo4Test/HCSo4Test.uvguix.Aerfa.Aerfa.tmp",
+    "STM32Code/09-HCSo4Test/HCSo4Test.uvprojx.Aerfa.tmp",
+    "STM32Code/PWM/PWM.uvguix.Aerfa.Aerfa.tmp",
+    "STM32Docs/02-外设实验/02-按钮.md",
+    "STM32Docs/01-基础知识/ADC.md",
+    "Picture/ADC结构框图.png",
+    "Picture/逐次逼近型.png",
+    "STM32Docs/00-学习路线.md",
+    "STM32Code/PWM/Objects/spi.__i",
+    "STM32Code/PWM/Objects/button.__i",
+    "STM32Code/PWM/Objects/oled.__i",
+    "STM32Code/PWM/Objects/si2c.__i",
+    "STM32Code/PWM/Objects/i2c.__i",
+    "STM32Code/PWM/Objects/usart.__i",
+    "STM32Code/PWM/Objects/delay.__i",
+    "Picture/PWM配置.png",
+    "STM32Docs/01-基础知识/手册查询.md",
+    "STM32Docs/01-基础知识/接线.md",
+    "Picture/PWM接线.png",
+    "Picture/PWM原理.png",
+    "Picture/PWM框图.png",
+    "Picture/主模式.png",
+    "Picture/8种从模式.png",
+    "Picture/定时器编程步骤.png",
+    "Picture/输入捕获.png",
+    "STM32Docs/02-外设实验/06-中断.md",
+    "STM32Docs/01-基础知识/中断.md",
     "STM32Docs/02-外设实验/07-EXTI.md",
     "STM32Docs/01-基础知识/EXTI.md",
     "STM32Docs/02-外设实验/05-SPI.md",
-    "STM32Docs/02-外设实验/02-按钮.md",
     "STM32Docs/01-基础知识/按钮.md",
     "STM32Docs/01-基础知识/SPI.md",
     "STM32Docs/01-基础知识/OLED.md",
-    "STM32Docs/01-基础知识/手册查询.md",
     "STM32Docs/01-基础知识/串口.md",
-    "STM32Docs/01-基础知识/接线.md",
-    "STM32Docs/00-学习路线.md",
     "STM32Docs/02-外设实验/04-I2C.md",
     "STM32Docs/01-基础知识/I2C.md",
     "STM32Docs/01-基础知识/GPIO.md",
     "STM32Docs/01-基础知识/编程接口.md",
     "STM32Docs/02-外设实验/03-USART.md",
     "STM32Docs/02-外设实验/01-LED闪灯.md",
-    "STM32Docs/01-基础知识/芯片拆解.md",
-    "STM32Docs/01-基础知识/新建工程.md",
-    "STM32Docs/01-基础知识/环境搭建.md"
+    "STM32Docs/01-基础知识/芯片拆解.md"
   ]
 }
